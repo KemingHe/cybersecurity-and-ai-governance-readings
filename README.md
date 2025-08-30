@@ -1,28 +1,29 @@
-# Agentic AI Readings
+# Cybersecurity Readings
 
-> Updated on 2025-08-23 by @KemingHe
+> Updated on 2025-08-30 by @KemingHe
 
-A curated collection of research papers, industry reports, and product guides to inform and empower careers in agentic AI systems. Each document includes a NotebookLM-generated podcast/video for accessible learning on-the-go.
+A curated collection of cybersecurity frameworks, research papers, industry reports, and guides to inform and empower cybersecurity careers. Each document includes a NotebookLM-generated podcast/video for accessible learning on-the-go.
 
 ## 📁 Structure
 
 ```plaintext
-agentic-ai-readings/
-├── industry-reports/           # Market trends and insights
-├── product-guides/             # AI agents handbooks and certifications  
-├── research-ml-llms/           # ML/LLM foundations and best practices
-└── research-agentic-systems/   # Multi-agent systems and frameworks
+cybersecurity-readings/
+├── frameworks/            # Official standards and frameworks (NIST, ISO, etc.)
+├── industry-reports/      # Market trends and security insights
+├── legal/                 # Laws, regulations, and compliance
+├── product-guides/        # Security tools and implementation guides
+└── research/              # Academic papers and research studies
 ```
 
 ## 🚀 Getting Started
 
 1. **Browse topics** - Navigate directories by your learning focus
-2. **Read + Listen** - Each paper has both PDF and audio/video (`.wav`/`.m4a`/`.mp4`) versions
+2. **Read + Listen** - Each document has both PDF and audio/video (`.wav`/`.m4a`/`.mp4`) versions
 3. **Stay updated** - Check back regularly for new additions
 
 ## 🛠️ Contributing
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding research papers and maintaining quality standards.
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding cybersecurity documents and maintaining quality standards.
 
 ## 📄 License
 
@@ -30,4 +31,4 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding research paper
 
 ## 📞 Support
 
-[Create an issue](https://github.com/KemingHe/career-readings/issues) for suggestions or questions.
+[Create an issue](https://github.com/KemingHe/cybersecurity-readings/issues) for suggestions or questions.

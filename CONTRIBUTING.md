@@ -1,31 +1,38 @@
 # Contributing
 
-> Updated on 2025-08-23 by @KemingHe
+> Updated on 2025-08-30 by @KemingHe
 
-Quick start guide for contributors adding research papers and industry reports to the agentic AI collection.
+Quick start guide for contributors adding cybersecurity documents, frameworks, and research to the collection.
 
-## Adding Research Papers
+## Adding Documents
 
 **Step-by-step process:**
 
 1. **Verify content quality**
-   - [ ] Connects to agentic AI systems or career development  
-   - [ ] Recent (2022+) or foundational paper
-   - [ ] Peer-reviewed research, established companies, recognized experts  
-   - [ ] Text-searchable PDF with clear abstract
-   - [ ] Sourced from authoritative sites ([arXiv](https://arxiv.org/), [ACM Digital Library](https://dl.acm.org/), [Google Scholar](https://scholar.google.com/)) for full version lineage
+   - [ ] Connects to cybersecurity practice or career development  
+   - [ ] Recent (2022+) or foundational/authoritative document
+   - [ ] From established organizations, government agencies, or recognized experts  
+   - [ ] Text-searchable PDF with clear structure
+   - [ ] Sourced from authoritative sites (NIST, ISO, vendor sites, research institutions) to ensure authenticity
 
-2. **Name file**: `YYYY-MM-descriptive-title-by-author.pdf` (use **first** publishing date, not latest version)
+2. **Name file**:
+   - **Research papers**: `YYYY-MM-descriptive-title-by-author.pdf` (use **original** publication date)
+   - **All other documents**: `YYYY-MM-descriptive-title-by-organization.pdf` (use **latest** revision date)
 
    ```plaintext
-   2017-06-attention-is-all-you-need-by-google.pdf  # Original publication date
+   # Research (original date)
+   2020-08-zero-trust-architecture-by-nist.pdf
+   
+   # Frameworks/standards/guides (latest revision)  
+   2024-02-csf-2-0-by-nist.pdf
    ```
 
 3. **Choose directory**:
-   - [**`industry-reports/`**](./industry-reports/): Market analysis, trends, workforce insights
-   - [**`product-guides/`**](./product-guides/): Product documentation, certification programs  
-   - [**`research-ml-llms/`**](./research-ml-llms/): ML/LLM foundations, optimization, best practices
-   - [**`research-agentic-systems/`**](./research-agentic-systems/): Multi-agent systems, frameworks, coordination
+   - [**`frameworks/`**](./frameworks/): Official standards and frameworks (NIST, ISO, COBIT, etc.)
+   - [**`industry-reports/`**](./industry-reports/): Market analysis, threat landscape, workforce insights
+   - [**`legal/`**](./legal/): Laws, regulations, compliance requirements, governance policies
+   - [**`product-guides/`**](./product-guides/): Security tools, implementation guides, best practices  
+   - [**`research/`**](./research/): Academic papers, research studies, technical analysis
 
 4. **Generate audio**: Upload PDF → [NotebookLM](https://notebooklm.google.com) → Generate audio/video overview → Save as `.wav`/`.mp4`
 
@@ -33,8 +40,8 @@ Quick start guide for contributors adding research papers and industry reports t
 
 ## Git Conventions
 
-**Branch**: `<type>/<scope>/<assignee>` → `docs/add-paper-title/username`  
-**Commit**: `<type>(<scope>): <description>` → `docs(ml-llms): add transformer paper by Google`
+**Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/username`  
+**Commit**: `<type>(<scope>): <description>` → `docs(frameworks): add NIST CSF 2.0`
 
 **Types**: `docs`, `fix`, `feat`, `refactor`, `chore`
 
@@ -43,7 +50,7 @@ Quick start guide for contributors adding research papers and industry reports t
 
 ## Issues & Pull Requests
 
-**Report Issues**: 🔗 Broken links • 📁 Better categorization • 📄 Missing research
+**Report Issues**: 🔗 Broken links • 📁 Better categorization • 📄 Missing frameworks/standards
 
 **PR Requirements**: ✅ Issue reference • ✅ Proper naming/placement • ✅ PDF+audio pair
 
