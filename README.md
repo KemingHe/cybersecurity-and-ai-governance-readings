@@ -2,7 +2,7 @@
 
 > Updated on 2025-08-30 by @KemingHe
 
-A curated collection of cybersecurity frameworks, research papers, industry reports, and guides to inform and empower cybersecurity careers. Each document includes a NotebookLM-generated podcast/video for accessible learning on-the-go.
+A curated collection of cybersecurity frameworks, research papers, industry reports, and guides to inform and empower cybersecurity careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
 
 ## 📁 Structure
 
@@ -18,8 +18,9 @@ cybersecurity-readings/
 ## 🚀 Getting Started
 
 1. **Browse topics** - Navigate directories by your learning focus
-2. **Read + Listen** - Each document has both PDF and audio/video (`.wav`/`.m4a`/`.mp4`) versions
-3. **Stay updated** - Check back regularly for new additions
+2. **Read summaries** - Each `.md` file contains document overview and significance analysis
+3. **Access materials** - Follow links to PDF, audio overview, and video overview on Google Drive
+4. **Stay updated** - Check back regularly for new additions
 
 ## 🛠️ Contributing
 

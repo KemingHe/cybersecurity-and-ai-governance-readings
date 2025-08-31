@@ -2,46 +2,33 @@
 
 > Updated on 2025-08-30 by @KemingHe
 
-Quick start guide for contributors adding cybersecurity documents, frameworks, and research to the collection.
+Maintainer guide for @KemingHe to add cybersecurity documents to the collection. This repository is solely maintained by @KemingHe - external contributions are welcome via issues and suggestions only.
 
 ## Adding Documents
 
-**Step-by-step process:**
+**Workflow overview**:
 
-1. **Verify content quality**
-   - [ ] Connects to cybersecurity practice or career development  
-   - [ ] Recent (2022+) or foundational/authoritative document
-   - [ ] From established organizations, government agencies, or recognized experts  
-   - [ ] Text-searchable PDF with clear structure
-   - [ ] Sourced from authoritative sites (NIST, ISO, vendor sites, research institutions) to ensure authenticity
+1. **Source materials**: Download original PDF, then generate audio and video overviews via [NotebookLM](https://notebooklm.google.com)
+2. **Upload to Google Drive**: Store PDF, audio, video with public access links
+3. **Create .md file**: Use [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md)
+4. **Place in directory**: Choose appropriate folder based on document type
+5. **Commit changes**: Follow git conventions below
 
-2. **Name file**:
-   - **Research papers**: `YYYY-MM-descriptive-title-by-author.pdf` (use **original** publication date)
-   - **All other documents**: `YYYY-MM-descriptive-title-by-organization.pdf` (use **latest** revision date)
+**Directory placement**:
 
-   ```plaintext
-   # Research (original date)
-   2020-08-zero-trust-architecture-by-nist.pdf
-   
-   # Frameworks/standards/guides (latest revision)  
-   2024-02-csf-2-0-by-nist.pdf
-   ```
+- `frameworks/`: Official standards and frameworks (NIST, ISO, COBIT, etc.)
+- `industry-reports/`: Market analysis, threat landscape, workforce insights  
+- `legal/`: Laws, regulations, compliance requirements, governance policies
+- `product-guides/`: Security tools, implementation guides, best practices
+- `research/`: Academic papers, research studies, technical analysis
 
-3. **Choose directory**:
-   - [**`frameworks/`**](./frameworks/): Official standards and frameworks (NIST, ISO, COBIT, etc.)
-   - [**`industry-reports/`**](./industry-reports/): Market analysis, threat landscape, workforce insights
-   - [**`legal/`**](./legal/): Laws, regulations, compliance requirements, governance policies
-   - [**`product-guides/`**](./product-guides/): Security tools, implementation guides, best practices  
-   - [**`research/`**](./research/): Academic papers, research studies, technical analysis
-
-4. **Generate audio**: Upload PDF → [NotebookLM](https://notebooklm.google.com) → Generate audio/video overview → Save as `.wav`/`.mp4`
-
-5. **Submit PR**: Reference issue or explain added value
+> [!TIP]
+> See [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md) for complete formatting guidelines and placeholder details.
 
 ## Git Conventions
 
-**Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/username`  
-**Commit**: `<type>(<scope>): <description>` → `docs(frameworks): add NIST CSF 2.0`
+**Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/KemingHe`  
+**Commit**: `<type>(<scope>): <description>` → `docs(frameworks): add NIST CSF 2.0 summary`
 
 **Types**: `docs`, `fix`, `feat`, `refactor`, `chore`
 
@@ -50,11 +37,11 @@ Quick start guide for contributors adding cybersecurity documents, frameworks, a
 
 ## Issues & Pull Requests
 
-**Report Issues**: 🔗 Broken links • 📁 Better categorization • 📄 Missing frameworks/standards
+**External contributions**: Submit issues for document suggestions, broken links, or categorization improvements
 
-**PR Requirements**: ✅ Issue reference • ✅ Proper naming/placement • ✅ PDF+audio pair
+**Maintainer PRs**: ✅ Template compliance • ✅ Google Drive links tested • ✅ Directory placement • ✅ 3-sentence significance
 
-**Templates**: [GitHub templates](./.github/) or [AI prompts](./prompts/) for structured content
+**Templates**: [Document template](./CONTRIBUTING-document-template.md) • [GitHub templates](./.github/) • [AI prompts](./prompts/)
 
 ---
 
