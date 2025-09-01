@@ -2,17 +2,17 @@
 
 > Updated on 2025-08-30 by @KemingHe
 
-A curated collection of cybersecurity frameworks, research papers, industry reports, and guides to inform and empower cybersecurity careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
+A curated collection of foundational and recent cybersecurity frameworks and controls, research papers, industry reports, and security product guides to inform and empower cybersecurity careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
 
 ## 📁 Structure
 
 ```plaintext
 cybersecurity-readings/
-├── frameworks/            # Official standards and frameworks (NIST, ISO, etc.)
-├── industry-reports/      # Market trends and security insights
-├── legal/                 # Laws, regulations, and compliance
-├── product-guides/        # Security tools and implementation guides
-└── research/              # Academic papers and research studies
+├── frameworks-and-controls/  # Official standards and frameworks (NIST, ISO, etc.)
+├── industry-reports/         # Market trends and security insights
+├── laws-and-regulations/     # Laws, regulations, and compliance
+├── product-guides/           # Security tools and implementation guides
+└── research-papers/          # Academic papers and research studies
 ```
 
 ## 🚀 Getting Started
