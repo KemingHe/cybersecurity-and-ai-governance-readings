@@ -1,6 +1,6 @@
 # Contributing
 
-> Updated on 2025-08-30 by @KemingHe
+> Updated on 2025-09-01 by @KemingHe
 
 Maintainer guide for @KemingHe to add cybersecurity documents to the collection. This repository is solely maintained by @KemingHe - external contributions are welcome via issues and suggestions only.
 
@@ -17,6 +17,7 @@ Maintainer guide for @KemingHe to add cybersecurity documents to the collection.
 **Directory placement**:
 
 - `frameworks-and-controls/`: Official standards and frameworks (NIST, ISO, COBIT, etc.)
+- `google-cybersecurity-certificate/`: Course materials, practical learning resources, training content
 - `industry-reports/`: Market analysis, threat landscape, workforce insights  
 - `laws-and-regulations/`: Laws, regulations, compliance requirements, governance policies
 - `product-guides/`: Security tools, implementation guides, best practices
