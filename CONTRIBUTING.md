@@ -1,6 +1,6 @@
 # Contributing
 
-> Updated on 2025-08-30 by @KemingHe
+> Updated on 2025-09-01 by @KemingHe
 
 Maintainer guide for @KemingHe to add cybersecurity documents to the collection. This repository is solely maintained by @KemingHe - external contributions are welcome via issues and suggestions only.
 
@@ -16,11 +16,12 @@ Maintainer guide for @KemingHe to add cybersecurity documents to the collection.
 
 **Directory placement**:
 
-- `frameworks/`: Official standards and frameworks (NIST, ISO, COBIT, etc.)
+- `frameworks-and-controls/`: Official standards and frameworks (NIST, ISO, COBIT, etc.)
+- `google-cybersecurity-certificate/`: Course materials, practical learning resources, training content
 - `industry-reports/`: Market analysis, threat landscape, workforce insights  
-- `legal/`: Laws, regulations, compliance requirements, governance policies
+- `laws-and-regulations/`: Laws, regulations, compliance requirements, governance policies
 - `product-guides/`: Security tools, implementation guides, best practices
-- `research/`: Academic papers, research studies, technical analysis
+- `research-papers/`: Academic papers, research studies, technical analysis
 
 > [!TIP]
 > See [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md) for complete formatting guidelines and placeholder details.
@@ -28,7 +29,7 @@ Maintainer guide for @KemingHe to add cybersecurity documents to the collection.
 ## Git Conventions
 
 **Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/KemingHe`  
-**Commit**: `<type>(<scope>): <description>` → `docs(frameworks): add NIST CSF 2.0 summary`
+**Commit**: `<type>(<scope>): <description>` → `docs(frameworks-and-controls): add NIST CSF 2.0 summary`
 
 **Types**: `docs`, `fix`, `feat`, `refactor`, `chore`
 
