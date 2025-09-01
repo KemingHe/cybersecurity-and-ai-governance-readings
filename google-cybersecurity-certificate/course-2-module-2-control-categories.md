@@ -24,7 +24,7 @@ These controls work together to provide defense in depth and protect assets:
 
 | Type | Purpose |
 | :--- | :--- |
-| Preventitive | To **prevent** an incident from occurring in the first place |
+| Preventive | To **prevent** an incident from occurring in the first place |
 | Corrective | To **restore** an asset after an incident |
 | Detective | To determine whether an incident **has occurred or is in progress** |
 | Deterrent | To **discourage attacks** |
