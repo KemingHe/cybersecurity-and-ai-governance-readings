@@ -2,7 +2,7 @@
 
 > Updated on 2025-09-01 by @KemingHe
 
-Maintainer guide for @KemingHe to add cybersecurity documents to the collection. This repository is solely maintained by @KemingHe - external contributions are welcome via issues and suggestions only.
+Maintainer guide for @KemingHe to add cybersecurity and AI governance documents to the collection. This repository is solely maintained by [@KemingHe](https://github.com/KemingHe) - external contributions are welcome via issues and suggestions only.
 
 ## Adding Documents
 
@@ -16,12 +16,13 @@ Maintainer guide for @KemingHe to add cybersecurity documents to the collection.
 
 **Directory placement**:
 
-- `frameworks-and-controls/`: Official standards and frameworks (NIST, ISO, COBIT, etc.)
-- `google-cybersecurity-certificate/`: Course materials, practical learning resources, training content
+- `frameworks-controls-and-playbooks/`: Official standards, frameworks, and playbooks (NIST, ISO, COBIT, etc.)
+- `google-cybersecurity-certificate/`: Learning resources from the [Google Cybersecurity Certificate](https://grow.google/certificates/cybersecurity/) program
 - `industry-reports/`: Market analysis, threat landscape, workforce insights  
 - `laws-and-regulations/`: Laws, regulations, compliance requirements, governance policies
-- `product-guides/`: Security tools, implementation guides, best practices
+- `product-guides/`: Security tools (SIEM, SOAR, etc.), implementation guides, best practices
 - `research-papers/`: Academic papers, research studies, technical analysis
+- `securiti-ai-security-and-governance-certification/`: Learning resources from the [Securiti AI Security and Governance Certification](https://education.securiti.ai/certifications/ai-governance/) program
 
 > [!TIP]
 > See [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md) for complete formatting guidelines and placeholder details.
@@ -29,7 +30,7 @@ Maintainer guide for @KemingHe to add cybersecurity documents to the collection.
 ## Git Conventions
 
 **Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/KemingHe`  
-**Commit**: `<type>(<scope>): <description>` → `docs(frameworks-and-controls): add NIST CSF 2.0 summary`
+**Commit**: `<type>(<scope>): <description>` → `docs(frameworks-controls-and-playbooks): add NIST CSF 2.0 documentation`
 
 **Types**: `docs`, `fix`, `feat`, `refactor`, `chore`
 

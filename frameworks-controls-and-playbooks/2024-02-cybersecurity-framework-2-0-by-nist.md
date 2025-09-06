@@ -18,4 +18,4 @@ The guidance equips executives, boards of directors, and risk managers with esse
 
 ---
 
-> Cybersecurity Document Template v1.0.0 - KemingHe/cybersecurity-readings
+> Cybersecurity and AI Governance Document Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
