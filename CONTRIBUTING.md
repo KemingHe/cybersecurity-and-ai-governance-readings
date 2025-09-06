@@ -1,6 +1,6 @@
 # Contributing
 
-> Updated on 2025-09-01 by @KemingHe
+> Updated on 2025-09-06 by @KemingHe
 
 Maintainer guide for @KemingHe to add cybersecurity and AI governance documents to the collection. This repository is solely maintained by [@KemingHe](https://github.com/KemingHe) - external contributions are welcome via issues and suggestions only.
 
@@ -10,7 +10,7 @@ Maintainer guide for @KemingHe to add cybersecurity and AI governance documents 
 
 1. **Source materials**: Download original PDF, then generate audio and video overviews via [NotebookLM](https://notebooklm.google.com)
 2. **Upload to Google Drive**: Store PDF, audio, video with public access links
-3. **Create .md file**: Use [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md)
+3. **Create .md file**: Use [CONTRIBUTING-summary-template.md](./CONTRIBUTING-summary-template.md)
 4. **Place in directory**: Choose appropriate folder based on document type
 5. **Commit changes**: Follow git conventions below
 
@@ -25,12 +25,12 @@ Maintainer guide for @KemingHe to add cybersecurity and AI governance documents 
 - `securiti-ai-security-and-governance-certification/`: Learning resources from the [Securiti AI Security and Governance Certification](https://education.securiti.ai/certifications/ai-governance/) program
 
 > [!TIP]
-> See [CONTRIBUTING-document-template.md](./CONTRIBUTING-document-template.md) for complete formatting guidelines and placeholder details.
+> See [CONTRIBUTING-summary-template.md](./CONTRIBUTING-summary-template.md) for complete formatting guidelines and placeholder details.
 
 ## Git Conventions
 
 **Branch**: `<type>/<scope>/<assignee>` → `docs/add-nist-framework/KemingHe`  
-**Commit**: `<type>(<scope>): <description>` → `docs(frameworks-controls-and-playbooks): add NIST CSF 2.0 documentation`
+**Commit**: `<type>(<scope>): <description>` → `docs(frameworks-controls-and-playbooks): add NIST CSF 2.0 summary`
 
 **Types**: `docs`, `fix`, `feat`, `refactor`, `chore`
 
@@ -43,7 +43,7 @@ Maintainer guide for @KemingHe to add cybersecurity and AI governance documents 
 
 **Maintainer PRs**: ✅ Template compliance • ✅ Google Drive links tested • ✅ Directory placement • ✅ 3-sentence significance
 
-**Templates**: [Document template](./CONTRIBUTING-document-template.md) • [GitHub templates](./.github/) • [AI prompts](./prompts/)
+**Templates**: [Summary template](./CONTRIBUTING-summary-template.md) • [GitHub templates](./.github/) • [AI prompts](./prompts/)
 
 ---
 

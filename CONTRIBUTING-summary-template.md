@@ -1,5 +1,5 @@
 <!--
-Document Template for Cybersecurity and AI Governance Readings
+Summary Template for Cybersecurity and AI Governance Readings
 =============================================================
 
 INSTRUCTIONS:
@@ -46,4 +46,4 @@ Use blank lines between the 3 sentences. Adapt examples below to your briefing d
 
 ---
 
-> Cybersecurity and AI Governance Document Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
+> Cybersecurity and AI Governance Summary Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
