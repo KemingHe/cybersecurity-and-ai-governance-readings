@@ -1,6 +1,6 @@
 <!--
-Document Template for Cybersecurity Readings
-============================================
+Document Template for Cybersecurity and AI Governance Readings
+=============================================================
 
 INSTRUCTIONS:
 
@@ -31,19 +31,19 @@ Write exactly 3 sentences (~40 words total, <5s read time), each on separate lin
 
 CONTENT: Extract specific numbers/features/findings from briefing doc (adapt to document's unique value)
 
-INDUSTRY: Current context driving adoption - use actual briefing threats/trends, not generic statements
+INDUSTRY: Current context driving adoption - use actual briefing threats/trends, AI developments, or governance needs
 
-CAREER: Target specific roles/skills this content advances - based on document focus, not boilerplate
+CAREER: Target specific roles/skills this content advances - cybersecurity, AI governance, compliance, or risk management focus
 
 Use blank lines between the 3 sentences. Adapt examples below to your briefing doc - avoid copy-paste templates. You must maintain overall section coherence while communicating critical points concisely and effectively.
 -->
 
-[Extract specific details: e.g., "introduces 6 new functions" OR "reveals 50% credential-based incidents" - adapt pattern to your document]
+[Extract specific details: e.g., "introduces 6 new functions" OR "reveals 50% credential-based incidents" OR "defines 12 AI risk categories" - adapt pattern to your document]
 
-[Current context: e.g., "As cloud adoption accelerates" OR "While supply chain attacks rise" - use actual briefing drivers]
+[Current context: e.g., "As cloud adoption accelerates" OR "While supply chain attacks rise" OR "As AI systems become ubiquitous" - use actual briefing drivers]
 
-[Target roles: e.g., "equips governance professionals" OR "advances threat analysts" - match document's focus area]
+[Target roles: e.g., "equips governance professionals" OR "advances threat analysts" OR "empowers AI ethics officers" - match document's focus area]
 
 ---
 
-> Cybersecurity Document Template v1.0.0 - KemingHe/cybersecurity-readings
+> Cybersecurity and AI Governance Document Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
