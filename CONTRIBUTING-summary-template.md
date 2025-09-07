@@ -36,6 +36,8 @@ INDUSTRY: Current context driving adoption - use actual briefing threats/trends,
 CAREER: Target specific roles/skills this content advances - cybersecurity, AI governance, compliance, or risk management focus
 
 Use blank lines between the 3 sentences. Adapt examples below to your briefing doc - avoid copy-paste templates. You must maintain overall section coherence while communicating critical points concisely and effectively.
+
+Remove all comments and placeholder text when finished.
 -->
 
 [Extract specific details: e.g., "introduces 6 new functions" OR "reveals 50% credential-based incidents" OR "defines 12 AI risk categories" - adapt pattern to your document]
