@@ -2,7 +2,7 @@
 
 > Updated on 2025-09-06 by @KemingHe
 
-A curated collection of foundational and recent cybersecurity frameworks and controls, AI governance standards, research papers, industry reports, security product guides, and course materials to inform and empower cybersecurity and AI governance careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
+A curated collection of foundational and recent cybersecurity frameworks, controls, playbooks, AI governance standards, research papers, industry reports, security product guides, and course materials to inform and empower cybersecurity and AI governance careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
 
 ## 📁 Structure
 

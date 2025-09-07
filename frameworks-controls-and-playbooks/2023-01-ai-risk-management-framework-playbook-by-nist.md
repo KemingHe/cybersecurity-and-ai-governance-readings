@@ -19,4 +19,4 @@ Equips cybersecurity and governance professionals with structured methodologies 
 
 ---
 
-> Cybersecurity and AI Governance Document Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
+> Cybersecurity and AI Governance Summary Template v1.0.0 - KemingHe/cybersecurity-and-ai-governance-readings
