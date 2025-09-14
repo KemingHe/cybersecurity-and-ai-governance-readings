@@ -1,4 +1,4 @@
-# 2023-01 AI Risk Management Framework 1.0 by NIST
+# 2023-01 AI Risk Management Framework 1.0 and Playbook by NIST
 
 > Retrieved on 2025-09-01 by @KemingHe from [[nist.gov](https://www.nist.gov/itl/ai-risk-management-framework)]
 
