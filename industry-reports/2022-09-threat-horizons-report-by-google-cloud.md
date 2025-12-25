@@ -1,6 +1,6 @@
 # 2022-09 Threat Horizons Report by Google Cloud
 
-> Retrieved on 2025-08-30 by @KemingHe from [[Google Cloud](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf)]
+> Retrieved on 2025-08-30 by Keming He from [[Google Cloud](https://services.google.com/fh/files/blogs/gcat_threathorizons_full_sept2022.pdf)]
 
 ## Files
 

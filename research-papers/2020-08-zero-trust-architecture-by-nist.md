@@ -1,7 +1,7 @@
 
 # 2020-08 Zero Trust Architecture by NIST
 
-> Retrieved on 2025-08-30 by @KemingHe from [[nist.gov](https://www.nist.gov/publications/zero-trust-architecture)]
+> Retrieved on 2025-08-30 by Keming He from [[nist.gov](https://www.nist.gov/publications/zero-trust-architecture)]
 
 ## Files
 

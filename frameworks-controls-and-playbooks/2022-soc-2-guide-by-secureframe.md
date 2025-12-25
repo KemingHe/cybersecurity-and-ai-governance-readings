@@ -1,6 +1,6 @@
 # 2022 The Ultimate Guide to SOC 2 by Secureframe
 
-> Retrieved on 2025-09-05 by @KemingHe from [[secureframe.com](https://secureframe.com/books/ultimate-soc-2-guide)]
+> Retrieved on 2025-09-05 by Keming He from [[secureframe.com](https://secureframe.com/books/ultimate-soc-2-guide)]
 
 ## Files
 

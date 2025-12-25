@@ -1,6 +1,6 @@
 # 2023-03 Cyber Incident Response Plan by Australian Cyber Security Centre
 
-> Retrieved on 2025-09-06 by @KemingHe from [[cyber.gov.au](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)]
+> Retrieved on 2025-09-06 by Keming He from [[cyber.gov.au](https://www.cyber.gov.au/sites/default/files/2023-03/ACSC%20Cyber%20Incident%20Response%20Plan%20Guidance_A4.pdf)]
 
 ## Files
 

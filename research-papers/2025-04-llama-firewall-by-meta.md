@@ -1,6 +1,6 @@
 # 2025-04 LlamaFirewall: An open source guardrail system for building secure AI agents by Meta
 
-> Retrieved on 2025-09-06 by @KemingHe from [[ai.meta.com](https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/)]
+> Retrieved on 2025-09-06 by Keming He from [[ai.meta.com](https://ai.meta.com/research/publications/llamafirewall-an-open-source-guardrail-system-for-building-secure-ai-agents/)]
 
 ## Files
 

@@ -1,6 +1,6 @@
 # 2018-12 Risk Management Framework Rev 2 by NIST
 
-> Retrieved on 2025-08-30 by @KemingHe from [[nist.gov](https://csrc.nist.gov/pubs/sp/800/37/r2/final)]
+> Retrieved on 2025-08-30 by Keming He from [[nist.gov](https://csrc.nist.gov/pubs/sp/800/37/r2/final)]
 
 ## Files
 

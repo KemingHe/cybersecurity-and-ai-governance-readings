@@ -1,6 +1,6 @@
 # Transport Control Protocol/Internet Protocol (TCP/IP) Model
 
-> Retrieved on 2025-09-10 by @KemingHe from [[Google Cybersecurity Certificate](https://www.coursera.org/learn/networks-and-network-security/supplement/SXl0z/learn-more-about-the-tcp-ip-model)]
+> Retrieved on 2025-09-10 by Keming He from [[Google Cybersecurity Certificate](https://www.coursera.org/learn/networks-and-network-security/supplement/SXl0z/learn-more-about-the-tcp-ip-model)]
 
 As a security professional, it's important that you understand the TCP/IP model because it describes the functions of various network protocols. The TCP/IP model is based on the TCP/IP protocols suite that includes all network protocols that support the main TCP/IP protocol. To reiterate from previous lessons, a network protocol, also known as an internet protocol, is a set of standards used for routing and addressing data packets as they travel between devices on a network. In this reading, you will learn which network protocols operate on which communication layers of the TCP/IP model. The two most common models available are the TCP/IP and the OSI model. These models are a representative guideline of how hosts communicate across a network. The examples provided in this course will follow the TCP/IP model.
 

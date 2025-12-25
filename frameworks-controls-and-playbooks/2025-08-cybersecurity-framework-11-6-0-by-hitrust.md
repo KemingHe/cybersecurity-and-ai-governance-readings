@@ -1,6 +1,6 @@
 # 2025-08 Cybersecurity Framework v11.6.0 by HITRUST
 
-> Retrieved on 2025-08-31 by @KemingHe from [[hitrustalliance.net](https://hitrustalliance.net/advisories/haa-2025-003)]
+> Retrieved on 2025-08-31 by Keming He from [[hitrustalliance.net](https://hitrustalliance.net/advisories/haa-2025-003)]
 
 ## Files
 

@@ -1,6 +1,6 @@
 # 2024-02 Cybersecurity Framework 2.0 by NIST
 
-> Retrieved on 2025-08-30 by @KemingHe from [[nist.gov](https://www.nist.gov/cyberframework)]
+> Retrieved on 2025-08-30 by Keming He from [[nist.gov](https://www.nist.gov/cyberframework)]
 
 ## Files
 

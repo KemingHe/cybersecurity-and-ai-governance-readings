@@ -1,6 +1,6 @@
 # 2024-06 Artificial Intelligence Act by European Union
 
-> Retrieved on 2025-09-06 by @KemingHe from [[European Parliament Think Tank](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2021)698792)]
+> Retrieved on 2025-09-06 by Keming He from [[European Parliament Think Tank](https://www.europarl.europa.eu/thinktank/en/document/EPRS_BRI(2021)698792)]
 
 ## Files
 
