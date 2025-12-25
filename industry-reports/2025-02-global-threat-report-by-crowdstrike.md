@@ -1,6 +1,6 @@
 # 2025-02 Global Threat Report by CrowdStrike
 
-> Retrieved on 2025-09-06 by @KemingHe from [[crowdstrike.com](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-releases-2025-global-threat-report/#:~:text=AUSTIN%2C%20Texas%20%E2%80%93%20February%2027%2C,in%20malware%2Dfree%2C%20identity%2D)]
+> Retrieved on 2025-09-06 by Keming He from [[crowdstrike.com](https://www.crowdstrike.com/en-us/press-releases/crowdstrike-releases-2025-global-threat-report/#:~:text=AUSTIN%2C%20Texas%20%E2%80%93%20February%2027%2C,in%20malware%2Dfree%2C%20identity%2D)]
 
 ## Files
 

@@ -1,6 +1,6 @@
 # 2025-02 Market Guide for AI Trust, Risk and Security Management by Gartner
 
-> Retrieved on 2025-09-06 by @KemingHe from [[gartner.com](https://www.gartner.com/doc/reprints?id=1-2L5R0B0K&ct=250605&st=sb)]
+> Retrieved on 2025-09-06 by Keming He from [[gartner.com](https://www.gartner.com/doc/reprints?id=1-2L5R0B0K&ct=250605&st=sb)]
 
 ## Files
 

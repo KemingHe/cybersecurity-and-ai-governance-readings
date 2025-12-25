@@ -1,6 +1,6 @@
 # 2021-11 Ransomware playbook (ITSM.00.099) by Canadian Centre for Cyber Security
 
-> Retrieved on 2025-09-06 by @KemingHe from [[Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)]
+> Retrieved on 2025-09-06 by Keming He from [[Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en/guidance/ransomware-playbook-itsm00099)]
 
 ## Files
 

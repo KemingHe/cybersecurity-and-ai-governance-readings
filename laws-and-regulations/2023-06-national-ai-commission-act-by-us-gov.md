@@ -1,6 +1,6 @@
 # 2023-06 H.R.4223 - National AI Commission Act by the U.S. Government
 
-> Retrieved on 2025-09-06 by @KemingHe from [[congress.gov](https://www.congress.gov/bill/118th-congress/house-bill/4223)]
+> Retrieved on 2025-09-06 by Keming He from [[congress.gov](https://www.congress.gov/bill/118th-congress/house-bill/4223)]
 
 ## Files
 

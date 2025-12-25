@@ -1,6 +1,6 @@
 # 2020-12 Special Publication 800-53 Revision 5 by NIST
 
-> Retrieved on 2025-09-01 by @KemingHe from [[nist.gov](https://www.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53)]
+> Retrieved on 2025-09-01 by Keming He from [[nist.gov](https://www.nist.gov/privacy-framework/nist-privacy-framework-and-cybersecurity-framework-nist-special-publication-800-53)]
 
 ## Files
 

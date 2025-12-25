@@ -1,6 +1,6 @@
 # Open Systems Interconnection (OSI) Model
 
-> Retrieved on 2025-09-10 by @KemingHe from [[Google Cybersecurity Certificate](https://www.coursera.org/learn/networks-and-network-security/supplement/YbKL0/the-osi-model)]
+> Retrieved on 2025-09-10 by Keming He from [[Google Cybersecurity Certificate](https://www.coursera.org/learn/networks-and-network-security/supplement/YbKL0/the-osi-model)]
 
 All communication on a network is organized using network protocols. Previously, you learned about the Transmission Control Protocol (TCP), which establishes connections between two devices, and the Internet Protocol (IP), which is used for routing and addressing data packets as they travel between devices on a network. These protocols are used on specific internet layers in the TCP/IP model. The 4-layer TCP/IP model is a condensed form of the OSI (open Systems Interconnection) model, which is made up of 7 layers. The OSI model will provide a more in depth understanding of the processes that occur at each layer. We will work backwards from layer seven to layer one, going from the processes that involve direct user interaction with the network to those that involve the physical connection to the internet via network components like cables and switches. This reading will also review the main differences between the TCP/IP and OSI models.
 

@@ -1,10 +1,10 @@
 # Cybersecurity and AI Governance Readings
 
-> Updated on 2025-09-06 by @KemingHe
+> **Last Updated**: 2025-12-25 by Keming He
 
 A curated collection of foundational and recent cybersecurity frameworks, controls, playbooks, AI governance standards, research papers, industry reports, security product guides, and course materials to inform and empower cybersecurity and AI governance careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
 
-## 📁 Structure
+## Directory Structure
 
 ```plaintext
 cybersecurity-and-ai-governance-readings/
@@ -14,24 +14,31 @@ cybersecurity-and-ai-governance-readings/
 ├── laws-and-regulations/               # Laws, regulations, and compliance
 ├── product-guides/                     # Security tools and implementation guides
 ├── research-papers/                    # Academic papers and research studies
-└── securiti-ai-security-and-governance-certification/  # AI governance and security certification materials
+├── securiti-ai-security-and-governance-certification/  # AI governance and security certification materials
+├── CONTRIBUTING.md                     # Maintainer guide for adding documents
+├── CONTRIBUTING-summary-template.md    # Template for document summaries
+├── LICENSE                             # MIT License
+└── README.md                           # This file
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
-1. **Browse topics** - Navigate directories by your learning focus
-2. **Read summaries** - Each `.md` file contains document overview and significance analysis
-3. **Access materials** - Follow links to PDF, audio overview, and video overview on Google Drive
-4. **Stay updated** - Check back regularly for new additions
+**Browse topics**: Navigate directories by your learning focus
 
-## 🛠️ Contributing
+**Read summaries**: Each `.md` file contains document overview and significance analysis
+
+**Access materials**: Follow links to PDF, audio overview, and video overview on Google Drive
+
+**Stay updated**: Check back regularly for new additions
+
+## Contributing
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on adding cybersecurity documents and maintaining quality standards.
 
-## 📄 License
+## License
 
 [MIT License](./LICENSE) - free use and sharing with attribution.
 
-## 📞 Support
+## Support
 
 [Create an issue](https://github.com/KemingHe/cybersecurity-and-ai-governance-readings/issues) for suggestions or questions.
