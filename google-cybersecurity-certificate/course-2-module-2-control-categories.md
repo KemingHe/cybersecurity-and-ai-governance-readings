@@ -1,6 +1,6 @@
 # Cybersecurity Control Categories and Types
 
-> Adopted on 2025-09-01 by Keming He from [[Google Cybersecurity Certificate Course 2 Module 2](https://www.coursera.org/learn/manage-security-risks/supplement/I8hEO/more-about-security-audits)]
+> Adopted on 2025-09-01 by Keming He from [Google Cybersecurity Certificate - Course 2 - Module 2 - More About Security Audits](https://www.coursera.org/learn/manage-security-risks/supplement/I8hEO/more-about-security-audits)
 
 ## Control Categories
 
