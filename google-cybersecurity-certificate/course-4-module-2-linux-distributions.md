@@ -33,7 +33,7 @@ Ubuntu is also widely used for cloud computing. As organizations migrate to clou
 
 Parrot is another open-source distribution commonly used for security. Similar to KALI LINUX™, Parrot comes with pre-installed tools related to penetration testing and digital forensics. It has both GUI and CLI.
 
-Parrot is often considered more "lightweight" and is designed to be used as a daily-driver OS (with a home edition), whereas Kali is strictly optimized for temporary penetration testing environments.
+Parrot is often considered more "lightweight" and is designed to be used as a daily-driver OS (with a home edition), whereas Kali is primarily optimized for penetration testing environments and is less commonly used as a general-purpose daily driver.
 
 ## Red Hat® Enterprise Linux®-Based Linux Distributions
 
@@ -47,4 +47,4 @@ AlmaLinux is a community-driven Linux distribution that was created as a stable 
 
 ## Key Takeaways
 
-KALI LINUX™, Ubuntu, Parrot, Red Hat, and CentOS are all widely used Linux distributions. It's important for security analysts to be aware of these distributions that they might encounter in their career.
+KALI LINUX™, Ubuntu, Parrot, Red Hat, and AlmaLinux (a community-supported replacement for CentOS) are all widely used Linux distributions. It's important for security analysts to be aware of these distributions that they might encounter in their career.
