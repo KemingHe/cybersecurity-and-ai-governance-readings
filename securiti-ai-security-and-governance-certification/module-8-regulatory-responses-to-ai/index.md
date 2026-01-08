@@ -1,6 +1,6 @@
 # Regulatory Responses to AI
 
-> **Retrived on**: 2026-01-07 by Keming He from [Securiti - AI Security & Governance Certification - Module 8 - The Regulatory Response to AI](https://education.securiti.ai/certifications/ai-governance/ai-regulatory-compliance/the-regulatory-response-to-artificial-intelligence/)
+> **Retrieved on**: 2026-01-07 by Keming He from [Securiti - AI Security & Governance Certification - Module 8 - The Regulatory Response to AI](https://education.securiti.ai/certifications/ai-governance/ai-regulatory-compliance/the-regulatory-response-to-artificial-intelligence/)
 
 ## Overview
 
