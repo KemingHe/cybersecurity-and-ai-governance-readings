@@ -1,8 +1,14 @@
-# Cybersecurity and AI Governance Readings
-
-> **Last Updated**: 2025-12-25 by Keming He
+# ⚠️ [Archived] ⚠️ README - Cybersecurity and AI Governance Readings
 
 A curated collection of foundational and recent cybersecurity frameworks, controls, playbooks, AI governance standards, research papers, industry reports, security product guides, and course materials to inform and empower cybersecurity and AI governance careers. Each document is presented as a structured summary with links to PDF, audio overview, and video overview hosted on Google Drive for accessible learning.
+
+> [!WARNING]
+>
+> This repository is archived and no longer maintained. **All Google Drive share links will NO LONGER WORK.**
+>
+> - **Archived**: 2026-03-29 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive Reason**: Author now focusing on different career priorities
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 ## Directory Structure
 
